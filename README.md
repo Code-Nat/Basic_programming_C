@@ -1,2 +1,2 @@
-# Matala1-Basic_programming
-Matala 1 from basic programming 
+# Basic programming with C
+Sumbit here projects done for class of basic pogreaming in C
